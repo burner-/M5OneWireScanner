@@ -612,7 +612,6 @@ void cancelDeleteConfirm() {
 void handleDeleteConfirmKeys(const Keyboard_Class::KeysState& keys) {
     for (char c : keys.word) {
         if (c == 27) {
-            keys.
             cancelDeleteConfirm();
             return;
         }

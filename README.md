@@ -2,6 +2,7 @@
 
 PlatformIO / Arduino project for the **M5Stack Card Computer (Cardputer v1.1 with StampS3A)**.
 
+
 ## Features
 
 - Detects DS18S20 / DS18B20 family 1-Wire sensors on **Port A**.
