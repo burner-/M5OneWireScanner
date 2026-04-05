@@ -1,7 +1,7 @@
 # Cardputer DS18x20 Sensor Manager
 
 PlatformIO / Arduino project for the **M5Stack Card Computer (Cardputer v1.1 with StampS3A)**.
-
+https://docs.m5stack.com/en/core/Cardputer
 
 ## Features
 
